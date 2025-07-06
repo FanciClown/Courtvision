@@ -1,4 +1,4 @@
-
+# 🏀 CourtVision
 CourtVision is a full-stack NBA analytics dashboard that compares the league’s top players using real-time stats. Built using modern web technologies and deployed with AWS Lambda for a serverless backend.
 
 ## 🚀 Features
