@@ -11,15 +11,12 @@ CourtVision is a full-stack NBA analytics dashboard that compares the league’s
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Tailwind CSS
-- **Backend**: AWS Lambda, Node.js
-- **Data**: NBA API (RapidAPI / balldontlie / other)
-- **Charts**: Chart.js or Recharts
-- **Deployment**: AWS (S3, Lambda, maybe API Gateway)
+- **Frontend**: React, TypeScript
+- **Backend**: AWS Lambda (Node.js or TypeScript)
+- **Data**: NBA API (e.g., balldontlie, RapidAPI)
+- **Charts**: TBD (Chart.js, Recharts, or other)
+- **Deployment**: AWS S3 + Lambda (serverless)
 
-## 📸 Screenshots
-
-> _(Insert screenshots or GIFs here once UI is done)_
 
 ## 🌐 Live Demo
 
